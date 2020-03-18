@@ -1,0 +1,6 @@
+C:\Users\jozef\Desktop\tymczasowe\SymulatorDysku\SymulatorDysku\bin\Debug\SymulatorDysku.exe.config
+C:\Users\jozef\Desktop\tymczasowe\SymulatorDysku\SymulatorDysku\bin\Debug\SymulatorDysku.exe
+C:\Users\jozef\Desktop\tymczasowe\SymulatorDysku\SymulatorDysku\bin\Debug\SymulatorDysku.pdb
+C:\Users\jozef\Desktop\tymczasowe\SymulatorDysku\SymulatorDysku\obj\Debug\SymulatorDysku.csprojAssemblyReference.cache
+C:\Users\jozef\Desktop\tymczasowe\SymulatorDysku\SymulatorDysku\obj\Debug\SymulatorDysku.exe
+C:\Users\jozef\Desktop\tymczasowe\SymulatorDysku\SymulatorDysku\obj\Debug\SymulatorDysku.pdb

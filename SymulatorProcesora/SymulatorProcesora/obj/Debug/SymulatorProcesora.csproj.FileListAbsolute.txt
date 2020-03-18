@@ -1,0 +1,6 @@
+C:\Users\jozef\Desktop\tymczasowe\SymulatorProcesora\SymulatorProcesora\obj\Debug\SymulatorProcesora.csprojAssemblyReference.cache
+C:\Users\jozef\Desktop\tymczasowe\SymulatorProcesora\SymulatorProcesora\bin\Debug\SymulatorProcesora.exe.config
+C:\Users\jozef\Desktop\tymczasowe\SymulatorProcesora\SymulatorProcesora\bin\Debug\SymulatorProcesora.exe
+C:\Users\jozef\Desktop\tymczasowe\SymulatorProcesora\SymulatorProcesora\bin\Debug\SymulatorProcesora.pdb
+C:\Users\jozef\Desktop\tymczasowe\SymulatorProcesora\SymulatorProcesora\obj\Debug\SymulatorProcesora.exe
+C:\Users\jozef\Desktop\tymczasowe\SymulatorProcesora\SymulatorProcesora\obj\Debug\SymulatorProcesora.pdb
