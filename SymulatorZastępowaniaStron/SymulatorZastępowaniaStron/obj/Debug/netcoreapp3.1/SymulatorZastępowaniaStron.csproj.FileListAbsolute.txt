@@ -1,0 +1,13 @@
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorZastępowaniaStron\SymulatorZastępowaniaStron\bin\Debug\netcoreapp3.1\SymulatorZastępowaniaStron.exe
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorZastępowaniaStron\SymulatorZastępowaniaStron\bin\Debug\netcoreapp3.1\SymulatorZastępowaniaStron.deps.json
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorZastępowaniaStron\SymulatorZastępowaniaStron\bin\Debug\netcoreapp3.1\SymulatorZastępowaniaStron.runtimeconfig.json
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorZastępowaniaStron\SymulatorZastępowaniaStron\bin\Debug\netcoreapp3.1\SymulatorZastępowaniaStron.runtimeconfig.dev.json
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorZastępowaniaStron\SymulatorZastępowaniaStron\bin\Debug\netcoreapp3.1\SymulatorZastępowaniaStron.dll
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorZastępowaniaStron\SymulatorZastępowaniaStron\bin\Debug\netcoreapp3.1\SymulatorZastępowaniaStron.pdb
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorZastępowaniaStron\SymulatorZastępowaniaStron\obj\Debug\netcoreapp3.1\SymulatorZastępowaniaStron.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorZastępowaniaStron\SymulatorZastępowaniaStron\obj\Debug\netcoreapp3.1\SymulatorZastępowaniaStron.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorZastępowaniaStron\SymulatorZastępowaniaStron\obj\Debug\netcoreapp3.1\SymulatorZastępowaniaStron.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorZastępowaniaStron\SymulatorZastępowaniaStron\obj\Debug\netcoreapp3.1\SymulatorZastępowaniaStron.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorZastępowaniaStron\SymulatorZastępowaniaStron\obj\Debug\netcoreapp3.1\SymulatorZastępowaniaStron.dll
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorZastępowaniaStron\SymulatorZastępowaniaStron\obj\Debug\netcoreapp3.1\SymulatorZastępowaniaStron.pdb
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorZastępowaniaStron\SymulatorZastępowaniaStron\obj\Debug\netcoreapp3.1\SymulatorZastępowaniaStron.genruntimeconfig.cache

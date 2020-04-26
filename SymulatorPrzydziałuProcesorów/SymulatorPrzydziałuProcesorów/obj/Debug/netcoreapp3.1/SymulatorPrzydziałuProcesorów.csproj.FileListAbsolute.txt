@@ -1,0 +1,13 @@
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuProcesorów\SymulatorPrzydziałuProcesorów\bin\Debug\netcoreapp3.1\SymulatorPrzydziałuProcesorów.exe
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuProcesorów\SymulatorPrzydziałuProcesorów\bin\Debug\netcoreapp3.1\SymulatorPrzydziałuProcesorów.deps.json
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuProcesorów\SymulatorPrzydziałuProcesorów\bin\Debug\netcoreapp3.1\SymulatorPrzydziałuProcesorów.runtimeconfig.json
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuProcesorów\SymulatorPrzydziałuProcesorów\bin\Debug\netcoreapp3.1\SymulatorPrzydziałuProcesorów.runtimeconfig.dev.json
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuProcesorów\SymulatorPrzydziałuProcesorów\bin\Debug\netcoreapp3.1\SymulatorPrzydziałuProcesorów.dll
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuProcesorów\SymulatorPrzydziałuProcesorów\bin\Debug\netcoreapp3.1\SymulatorPrzydziałuProcesorów.pdb
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuProcesorów\SymulatorPrzydziałuProcesorów\obj\Debug\netcoreapp3.1\SymulatorPrzydziałuProcesorów.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuProcesorów\SymulatorPrzydziałuProcesorów\obj\Debug\netcoreapp3.1\SymulatorPrzydziałuProcesorów.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuProcesorów\SymulatorPrzydziałuProcesorów\obj\Debug\netcoreapp3.1\SymulatorPrzydziałuProcesorów.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuProcesorów\SymulatorPrzydziałuProcesorów\obj\Debug\netcoreapp3.1\SymulatorPrzydziałuProcesorów.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuProcesorów\SymulatorPrzydziałuProcesorów\obj\Debug\netcoreapp3.1\SymulatorPrzydziałuProcesorów.dll
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuProcesorów\SymulatorPrzydziałuProcesorów\obj\Debug\netcoreapp3.1\SymulatorPrzydziałuProcesorów.pdb
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuProcesorów\SymulatorPrzydziałuProcesorów\obj\Debug\netcoreapp3.1\SymulatorPrzydziałuProcesorów.genruntimeconfig.cache

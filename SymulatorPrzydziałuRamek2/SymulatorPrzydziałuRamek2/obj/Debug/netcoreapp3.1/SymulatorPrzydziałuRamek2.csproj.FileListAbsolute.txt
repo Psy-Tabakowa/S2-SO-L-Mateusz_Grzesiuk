@@ -1,0 +1,13 @@
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuRamek2\SymulatorPrzydziałuRamek2\obj\Debug\netcoreapp3.1\SymulatorPrzydziałuRamek2.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuRamek2\SymulatorPrzydziałuRamek2\obj\Debug\netcoreapp3.1\SymulatorPrzydziałuRamek2.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuRamek2\SymulatorPrzydziałuRamek2\obj\Debug\netcoreapp3.1\SymulatorPrzydziałuRamek2.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuRamek2\SymulatorPrzydziałuRamek2\obj\Debug\netcoreapp3.1\SymulatorPrzydziałuRamek2.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuRamek2\SymulatorPrzydziałuRamek2\bin\Debug\netcoreapp3.1\SymulatorPrzydziałuRamek2.exe
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuRamek2\SymulatorPrzydziałuRamek2\bin\Debug\netcoreapp3.1\SymulatorPrzydziałuRamek2.deps.json
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuRamek2\SymulatorPrzydziałuRamek2\bin\Debug\netcoreapp3.1\SymulatorPrzydziałuRamek2.runtimeconfig.json
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuRamek2\SymulatorPrzydziałuRamek2\bin\Debug\netcoreapp3.1\SymulatorPrzydziałuRamek2.runtimeconfig.dev.json
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuRamek2\SymulatorPrzydziałuRamek2\bin\Debug\netcoreapp3.1\SymulatorPrzydziałuRamek2.dll
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuRamek2\SymulatorPrzydziałuRamek2\bin\Debug\netcoreapp3.1\SymulatorPrzydziałuRamek2.pdb
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuRamek2\SymulatorPrzydziałuRamek2\obj\Debug\netcoreapp3.1\SymulatorPrzydziałuRamek2.dll
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuRamek2\SymulatorPrzydziałuRamek2\obj\Debug\netcoreapp3.1\SymulatorPrzydziałuRamek2.pdb
+C:\Users\Mateusz\Desktop\Projekty\C#\SymulatorPrzydziałuRamek2\SymulatorPrzydziałuRamek2\obj\Debug\netcoreapp3.1\SymulatorPrzydziałuRamek2.genruntimeconfig.cache
